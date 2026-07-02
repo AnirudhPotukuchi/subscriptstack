@@ -1,4 +1,4 @@
-# Subscript: College-Exclusive Social Network
+# SubscriptStack: College-Exclusive Social Network
 
 [![Vue 3](https://img.shields.io/badge/Frontend-Vue%203-4fc08d?style=flat-square&logo=vue.js)](https://vuejs.org/)
 [![Vite](https://img.shields.io/badge/Bundler-Vite-646cff?style=flat-square&logo=vite)](https://vitejs.dev/)
